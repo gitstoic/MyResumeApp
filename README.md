@@ -15,3 +15,5 @@ I would have loved to have properly improved the screen adaptability, and implem
 I had challenges with the UI development as I am a beginner and finding youtube resources that was mostly done in kotlin as most seen were written in java.
 
 This is a link to the Appetize https://appetize.io/app/77nh3dbqbhiuwd3xt7nqxv2z6i.
+
+This is a link to the apk https://github.com/gitstoic/MyResumeApp/tree/main/apk%20file
